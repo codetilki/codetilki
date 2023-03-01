@@ -2,7 +2,7 @@
 
 
 <p align="center">  
- <a href="https://www.youtube.com/@tilkidevelopment" target"blank_"><img src="https://img.shields.io/badge/tilki%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+ <a href="https://www.youtube.com/@55tilki" target"blank_"><img src="https://img.shields.io/badge/tilki%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
  <a href="https://github.com" target"blank_"><img src="https://img.shields.io/badge/Tilki%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://discord.com/users/1055880790057156608" target"blank_"><img src="https://img.shields.io/badge/tilki%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://www.npmjs.com/~tilki"><img src="https://img.shields.io/badge/Tilki%20-191717.svg?&style=for-the-badge&logo=npm&logoColor=white" /></a>
