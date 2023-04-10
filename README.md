@@ -19,4 +19,8 @@
   <summary style="font-weight: bold; font-size: 18px">GitHub İstatistiklerim</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=codetilki&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
  </details>
- [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=codetilki&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/codetilki)
+ <p align="center">
+ <a href="https://www.buymeacoffee.com/codetilki">
+ <img src="https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=codetilki&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff">
+ </a>
+ </p>
