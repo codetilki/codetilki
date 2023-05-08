@@ -25,4 +25,4 @@
  </a>
  </p>
 <h2 width="100%"> Genellikle günümü bunlar ile geçiririm:</h2>
-<img src="https://skillicons.dev/icons?i=bootstrap,replit,css,html,js,discord,cloudflare,codepen,express,git,github,nodejs,python,npm" />
+<img src="https://skillicons.dev/icons?i=bootstrap,replit,css,html,js,discord,cloudflare,codepen,express,git,github,nodejs,python" />
