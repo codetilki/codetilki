@@ -7,7 +7,7 @@
   <a href="https://discord.com/users/1087790283573444760" target"blank_"><img src="https://img.shields.io/badge/tilki%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://www.npmjs.com/~tilki"><img src="https://img.shields.io/badge/Tilki%20-191717.svg?&style=for-the-badge&logo=npm&logoColor=white" /></a>
 <br>
- <a href="https://dşscord.gg/gyRmzHmYCp" target"blank_"><img src="https://img.shields.io/discord/1055881456645324840?style=for-the-badge&color=7289da&label=tilki&logo=fox&logoColor=white">
+ <a href="https://tilki.neocities.org/discord" target"blank_"><img src="https://img.shields.io/discord/1097151319174807552?style=for-the-badge&color=7289da&label=tilki&logo=fox&logoColor=white">
  </a>
 
 </p>
