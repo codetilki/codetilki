@@ -1,4 +1,4 @@
- # <img src="https://cdn.discordapp.com/avatars/1087790283573444760/a59fd9ce96dcac796bd6e92fc4c77d2c.png?size=2048?width=413&height=413" width="40px"> Tilki
+ # <img src="https://cdn.discordapp.com/widget-avatars/y6W8T5DAng1V4Xd23fCUawVSY2tUMTBWUDeaFvR3irU/QRlwRFSxzvyBfbfbNTU_YazFa2V84U-0mTaAlMUssFk8Pn1txg0UaljSWa-4eB8W_W7dkc9v-Jep1ety9aBZg9FLcSbw83DlfdyryWQKr67dHzcYD1-jnG5BzuSJK2UQ51OIvsINhJ7KUU8" width="40px"> Tilki
 
 
 <p align="center">  
