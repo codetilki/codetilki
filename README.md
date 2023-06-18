@@ -4,10 +4,10 @@
 <p align="center">  
  <a href="https://www.youtube.com/@codetilki" target"blank_"><img src="https://img.shields.io/badge/tilki%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
  <a href="https://github.com/codetilki" target"blank_"><img src="https://img.shields.io/badge/Tilki%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://discord.com/users/1087790283573444760" target"blank_"><img src="https://img.shields.io/badge/tilki%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.com/users/1097150765581213786" target"blank_"><img src="https://img.shields.io/badge/tilki%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://www.npmjs.com/~tilki"><img src="https://img.shields.io/badge/Tilki%20-191717.svg?&style=for-the-badge&logo=npm&logoColor=white" /></a>
 <br>
- <a href="https://tilki.neocities.org/discord" target"blank_"><img src="https://img.shields.io/discord/1097151319174807552?style=for-the-badge&color=7289da&label=tilki&logo=fox&logoColor=white">
+ <a href="#" target"blank_"><img src="https://img.shields.io/discord/1118656933994434710?style=for-the-badge&color=7289da&label=tilki&logo=fox&logoColor=white">
  </a>
 
 </p>
