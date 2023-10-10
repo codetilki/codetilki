@@ -17,7 +17,7 @@
  </p>
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">GitHub İstatistiklerim</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=codetilki&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<img src="https://github-readme-stats.vercel.app/api?username=tilkidevelopment&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
  </details>
  <p align="center">
  <a href="https://www.buymeacoffee.com/codetilki">
