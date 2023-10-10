@@ -2,8 +2,8 @@
 
 
 <p align="center">  
- <a href="https://www.youtube.com/@codetilki" target"blank_"><img src="https://img.shields.io/badge/tilki%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
- <a href="https://github.com/codetilki" target"blank_"><img src="https://img.shields.io/badge/Tilki%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+ <a href="https://www.youtube.com/@tilki_dev" target"blank_"><img src="https://img.shields.io/badge/tilki%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+ <a href="https://github.com/tilkidevelopment" target"blank_"><img src="https://img.shields.io/badge/Tilki%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://discord.com/users/1097150765581213786" target"blank_"><img src="https://img.shields.io/badge/tilki%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://www.npmjs.com/~tilki"><img src="https://img.shields.io/badge/Tilki%20-191717.svg?&style=for-the-badge&logo=npm&logoColor=white" /></a>
 <br>
