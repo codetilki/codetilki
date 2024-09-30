@@ -17,7 +17,7 @@
 </p>
 <br>
 <p align="center">
-<img src="https://count.getloli.com/get/@codetilki?theme=moebooru" alt="Tilki" />
+<img src="https://count.getloli.com/get/@tilkidevelopment?theme=moebooru" alt="Tilki" />
  </p>
 <br>
  <p align="center">
