@@ -1,6 +1,5 @@
  # <img src="https://tilki.neocities.org/resim/tilki.png" width="40px"> Tilki
  <p align="center"> 
- <img src="https://myreadme.vercel.app/api/embed/tilkidevelopment?panels=userstatistics,toprepositories,toplanguages,commitgraph" />
 <img src="https://github-profile-trophy.vercel.app/?username=tilkidevelopment&theme=juicyfresh&no-bg=true" />
   <br>
 <img src="https://skillicons.dev/icons?i=bootstrap,replit,css,html,js,discord,cloudflare,codepen,express,git,github,nodejs,python" />
