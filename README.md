@@ -2,7 +2,10 @@
  <p align="center"> 
 <img src="https://github-profile-trophy.vercel.app/?username=tilkidevelopment&theme=juicyfresh&no-bg=true" />
   <br>
-<img src="https://skillicons.dev/icons?i=bootstrap,replit,css,html,js,discord,cloudflare,codepen,express,git,github,nodejs,python" />
+ <p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,bootstrap,express,nodejs,npm,git,github,codepen,replit,cloudflare,python,c,cs,cpp,bash,powershell,androidstudio,apple,unity,robloxstudio,electron,arduino,blender,discord,discordjs,instagram,linux,windows,wordpress,visualstudio,vscode,ps,ai,pr" />
+
+</p>
  </p>
  <br>
  <p align="center"> 
